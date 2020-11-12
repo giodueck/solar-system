@@ -1,0 +1,13 @@
+## Generation
+-Swap manual setup of noise layers with body type selection
+-Body types: 
+            star
+            rocky planet
+                barren
+                    craters
+                lush
+            asteroid
+            gas giant
+
+## Visualization
+-Debug lines
